@@ -1,9 +1,9 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
-<EXPORT id="30073" version="1.0" name="RUSSKA_Katalog_deu_DEU.xml" exporttime="2020-12-07 08:30:33" export_user="System Administrator" user_email="" path="F:\EPIMFS\produktion\export\RUSSKA_Katalog\SYSTEM\Publikationen\2020_12_07\08_31_04_776_30073\" style="EXPORT" type="Publikationsexport" xmlns:xinclude="http://www.w3.org/2001/XInclude">
-    <PUB lang="deu_DEU" country="" id="18" creation_date="2018-03-12 12:29:45" change_date="2020-03-04 11:06:38" style="" level="1" name="RUSSKA Katalog" type="Publikationseinheit">
-        <PGR id="1118" creation_date="2016-11-25 14:20:17" change_date="2016-11-25 14:21:09" name="Publikationen" ref_id="" from_ref_id="">
-            <PGR id="1640" creation_date="2018-02-19 15:10:01" change_date="2018-02-19 15:10:01" name="RUSSKA Hauptkatalog 2018" ref_id="" from_ref_id="">
-                <PGR id="1967" creation_date="2018-09-25 10:36:54" change_date="2018-09-25 10:36:54" name="Neuheiten" ref_id="" from_ref_id="">
+<EXPORT id="30073" version="1.0" name="RUSSKA_Katalog_deu_DEU.xml" exporttime="2020-12-07 08:30:33" export_user="System Administrator" user_email="" path="Fwqeqweqwe:\EPIMFS\produktion\export\RUSSKA_Katalog\SYSTEM\Publikationen\2020_12_07\08_31_04_776_30073\" style="EXPORT" type="Publikationsexport" xmlns:xinclweude="http://www.w3.org/2001/XInclude">
+    <PUB lang="deu_DEU" country="" id="18" creation_date="2018-03-12 12:29:45" change_date="2020-03-04 11:06:38" style="" level="1" name="RUSSKA Katalog" type="Publikatioenseinheit">
+        <PGqweqwR id="1118" creation_date="2016-11-25 14:20:17" change_date="2016-11-25 14:21:09" name="Publikationen"eqweqwe ref_id="" from_ref_id="">
+            <PGR id="1640" creation_date="2018-02-19 15:10:01" change_date="2018-0qweqeqwe2-19 15:10:01" name="RUSSKA Hauptkatalog 2018" ref_id="" from_ref_id="">
+                <PGR id="1967" creation_date="2018-09-25 10:36:54" change_daqweqete="2018-09-25 10:36:54" name="Neuheiten" ref_id="" from_ref_id="">
                     <PGR id="2177" creation_date="2020-02-21 13:58:45" change_date="2020-02-21 13:58:45" name="Neuheiten_Ebene" ref_id="" from_ref_id="">
                         <PGR id="2185" creation_date="2020-04-16 15:52:36" change_date="2020-04-16 15:53:27" name="Import OMRON" ref_id="" from_ref_id="">
 
